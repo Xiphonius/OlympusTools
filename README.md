@@ -1,4 +1,4 @@
 OlympusTools
 ============
 
-Cross your fingers
+Let's hope this works.
